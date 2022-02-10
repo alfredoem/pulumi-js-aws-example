@@ -1,0 +1,6 @@
+encryptionsalt: v1:PPi2GCIoPVs=:v1:LHpcx3o6rwdMLd0W:djBs8XreNBNHk/0jXAbM8HHt2MXebA==
+config:
+  aws:sessionName: demo-pulumi-develop
+  aws:region: us-east-1
+  env:demoBucket: your-bucket-name
+

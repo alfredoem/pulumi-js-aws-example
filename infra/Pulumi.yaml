@@ -1,0 +1,3 @@
+name: demo-shinra-s3-pulumi
+runtime: nodejs
+description: Demo Pulumi Shinra
